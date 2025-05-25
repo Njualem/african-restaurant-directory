@@ -1,0 +1,75 @@
+{
+  "app": {
+    "name": "Saveur d'Afrique",
+    "tagline": "Discover the best African & Afro-Caribbean restaurants in France"
+  },
+  "navigation": {
+    "home": "Home",
+    "restaurants": "Restaurants",
+    "map": "Map",
+    "favorites": "Favorites",
+    "profile": "Profile"
+  },
+  "filters": {
+    "title": "Filters",
+    "cuisine": "Cuisine",
+    "price": "Price",
+    "rating": "Rating",
+    "distance": "Distance",
+    "features": "Features",
+    "apply": "Apply",
+    "reset": "Reset"
+  },
+  "restaurant": {
+    "reserve": "Reserve",
+    "call": "Call",
+    "website": "Website",
+    "share": "Share",
+    "directions": "Directions",
+    "reviews": "Reviews",
+    "menu": "Menu",
+    "hours": "Hours",
+    "photos": "Photos",
+    "about": "About",
+    "chef": "Chef",
+    "cuisine_info": "About this cuisine"
+  },
+  "search": {
+    "placeholder": "Search restaurants, cuisines, or dishes",
+    "no_results": "No results found",
+    "suggestions": "Suggestions"
+  },
+  "reviews": {
+    "write": "Write a review",
+    "rating": "Rating",
+    "recent": "Recent reviews",
+    "helpful": "Helpful",
+    "report": "Report"
+  },
+  "user": {
+    "login": "Log in",
+    "signup": "Sign up",
+    "logout": "Log out",
+    "settings": "Settings",
+    "language": "Language"
+  },
+  "admin": {
+    "dashboard": "Dashboard",
+    "restaurants": "Manage Restaurants",
+    "users": "Manage Users",
+    "reviews": "Moderate Reviews",
+    "content": "Content Management",
+    "analytics": "Analytics"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Something went wrong",
+    "retry": "Retry",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "view": "View",
+    "more": "More"
+  }
+}

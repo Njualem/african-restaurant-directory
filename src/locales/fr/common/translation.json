@@ -1,0 +1,75 @@
+{
+  "app": {
+    "name": "Saveur d'Afrique",
+    "tagline": "Découvrez les meilleurs restaurants africains et afro-caribéens en France"
+  },
+  "navigation": {
+    "home": "Accueil",
+    "restaurants": "Restaurants",
+    "map": "Carte",
+    "favorites": "Favoris",
+    "profile": "Profil"
+  },
+  "filters": {
+    "title": "Filtres",
+    "cuisine": "Cuisine",
+    "price": "Prix",
+    "rating": "Évaluation",
+    "distance": "Distance",
+    "features": "Caractéristiques",
+    "apply": "Appliquer",
+    "reset": "Réinitialiser"
+  },
+  "restaurant": {
+    "reserve": "Réserver",
+    "call": "Appeler",
+    "website": "Site web",
+    "share": "Partager",
+    "directions": "Itinéraire",
+    "reviews": "Avis",
+    "menu": "Menu",
+    "hours": "Horaires",
+    "photos": "Photos",
+    "about": "À propos",
+    "chef": "Chef",
+    "cuisine_info": "À propos de cette cuisine"
+  },
+  "search": {
+    "placeholder": "Rechercher des restaurants, cuisines ou plats",
+    "no_results": "Aucun résultat trouvé",
+    "suggestions": "Suggestions"
+  },
+  "reviews": {
+    "write": "Écrire un avis",
+    "rating": "Évaluation",
+    "recent": "Avis récents",
+    "helpful": "Utile",
+    "report": "Signaler"
+  },
+  "user": {
+    "login": "Connexion",
+    "signup": "S'inscrire",
+    "logout": "Déconnexion",
+    "settings": "Paramètres",
+    "language": "Langue"
+  },
+  "admin": {
+    "dashboard": "Tableau de bord",
+    "restaurants": "Gérer les restaurants",
+    "users": "Gérer les utilisateurs",
+    "reviews": "Modérer les avis",
+    "content": "Gestion de contenu",
+    "analytics": "Analytiques"
+  },
+  "common": {
+    "loading": "Chargement...",
+    "error": "Une erreur est survenue",
+    "retry": "Réessayer",
+    "save": "Enregistrer",
+    "cancel": "Annuler",
+    "delete": "Supprimer",
+    "edit": "Modifier",
+    "view": "Voir",
+    "more": "Plus"
+  }
+}
